@@ -7,7 +7,7 @@ We would like to approximate such an image with an $n$-bit RGB image using K-Mea
 
 *Figure 1: Image before compression*
 
-<br><br>
+<br>
 
 <img src="after_compression.png" alt="Market Value Distribution" width="700"/>
 
